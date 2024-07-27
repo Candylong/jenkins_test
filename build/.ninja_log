@@ -1,0 +1,7 @@
+# ninja log v5
+1	83	7437801050359152	CMakeFiles/third.dir/third.cc.obj	d816a0ea3eb7afab
+197	348	7437801052954598	Main.exe	45f74f55499e01af
+4	448	7437799510560420	CMakeFiles/Main.dir/main.cc.obj	d61bc11390b69365
+1	114	7437801224675291	libthird.dll	cbb4257cbb0a5ddb
+1	114	7437801224675291	libthird.dll.a	cbb4257cbb0a5ddb
+115	243	7437801225955580	Main.exe	9e7d2c873cdabbb9

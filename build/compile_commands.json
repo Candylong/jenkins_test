@@ -1,0 +1,13 @@
+[
+{
+  "directory": "E:/Jenkins/projects/jenkins_test/build",
+  "command": "E:\\GCC\\MinGW\\bin\\c++.exe  -Dthird_EXPORTS -I../.  -g   -std=gnu++11 -o CMakeFiles\\third.dir\\third.cc.obj -c E:\\Jenkins\\projects\\jenkins_test\\third.cc",
+  "file": "E:/Jenkins/projects/jenkins_test/third.cc"
+},
+
+{
+  "directory": "E:/Jenkins/projects/jenkins_test/build",
+  "command": "E:\\GCC\\MinGW\\bin\\c++.exe   -I../.  -g   -std=gnu++11 -o CMakeFiles\\Main.dir\\main.cc.obj -c E:\\Jenkins\\projects\\jenkins_test\\main.cc",
+  "file": "E:/Jenkins/projects/jenkins_test/main.cc"
+}
+]
